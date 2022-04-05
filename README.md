@@ -109,6 +109,6 @@
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dixen7&show_icons=true&theme=github_dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Dixen7&show_icons=true&theme=github_dark&count_private=true" width="400">
 
 
