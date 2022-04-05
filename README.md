@@ -53,8 +53,8 @@
 <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> 
 </a>
 
-<a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
-<img src="https://www.pngrepo.com/png/330758/180/junit5.png" alt="puppeteer" width="40" height="40"/> 
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
+<img src="https://www.pngrepo.com/png/330758/180/junit5.png" alt="junit5" width="40" height="40"/> 
 </a>
 
  </br>
