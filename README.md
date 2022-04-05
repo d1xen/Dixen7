@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
-<img src="http://www.w3.org/2000/svg" alt="puppeteer" width="40" height="40"/> 
+<img src="https://www.pngrepo.com/png/330758/180/junit5.png" alt="puppeteer" width="40" height="40"/> 
 </a>
 
  </br>
