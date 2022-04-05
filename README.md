@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Dixen</h1>
 
-<h3 align="center">Software developer at @PriceComparator</h3>
+<h3 align="center">rocket PriceComparator - Competitive analysis tool for e-commerces, brands or manufacturers</h3>
 
 <p align="left">
 
