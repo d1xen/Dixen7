@@ -25,7 +25,7 @@
 <p align="left">
 
  
-<h3 align="left" style="color:red">Backend</h3>
+<h3 style="color:red" align="left">Backend</h3>
 
 <p align="left"> 
 
