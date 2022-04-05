@@ -2,8 +2,6 @@
 
 <h3 align="center">Software developer at <a href="https://pricecomparator.pro/" target="_blank"> PriceComparator</a></h3>
 
-</br>
-
 <h4 align="center">:rocket: <a href="https://pricecomparator.pro/" target="_blank"> PriceComparator</a> - Competitive analysis tool for e-commerces, brands or manufacturers</h4>
 
 
