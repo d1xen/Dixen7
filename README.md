@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
-<img src="https://www.pngrepo.com/png/330758/180/junit5.png" alt="junit5" width="40" height="40"/> 
+<img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/> 
 </a>
 
  </br>
