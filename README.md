@@ -12,11 +12,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dixen7](https://github.com/Dixen7) 
 
+</br>
+</br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 
-</br></br></br></br>
+</br>
  
 <h3 align="left">Backend</h3>
 
@@ -41,7 +44,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
  </a> 
 
- 
+ </br>
  
 <h3 align="left">Front</h3>
 
@@ -53,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
  </a> 
 
-
+</br>
 
 <h3 align="left">Data</h3>
 
@@ -64,7 +67,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  </a> 
 
-
+</br>
 
 <h3 align="left">Others</h3>
 
@@ -83,7 +86,7 @@
 </p>
 
 
-
+</br></br>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
