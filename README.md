@@ -18,7 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dixen7](https://github.com/Dixen7) 
 
-</br>
 
 <h3 align="left">Languages and Tools:</h3>
 
